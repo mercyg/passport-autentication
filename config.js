@@ -1,4 +1,4 @@
 module.exports = {
-    database: "mongodb://localhost/trade",
+    database: "mongodb://localhost/loginApp",
 
 }

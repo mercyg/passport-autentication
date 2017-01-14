@@ -91,7 +91,7 @@ app.use(function(req, res, next) {
 })
 
 app.use("/", routes);
-app.use("/user", users);
+app.use("/users", users);
 
 
 app.listen(port, function() {
